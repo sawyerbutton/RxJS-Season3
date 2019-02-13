@@ -1,4 +1,5 @@
 # RxJS-Season3
+
 RxJS presentation Season 3
 
 ## RxJS 技术分享第三季
@@ -8,6 +9,7 @@ RxJS presentation Season 3
 3. 过滤操作符
 4. [代码地址](https://stackblitz.com/edit/rxjs-season3?file=index.ts)
 5. [玩具地址1](https://stackblitz.com/edit/rxjs-reactive-scroll?file=index.ts)
+6. [玩具地址2](https://stackblitz.com/edit/rxjs-fake-search-engine?file=index.ts)
 
 ### 高阶操作符
 
@@ -37,11 +39,14 @@ RxJS presentation Season 3
 6. `takeWhile/takeUntil` 从数据流种选取数据直到某种情况发生
 7. `skip` 从数据流中忽略最先出现的若干数据
 8. `skipWhile/skipUntil` 从数据流中的忽略数据直到某种情况发生
-9. `throttleTime/debounceTime/auditTime` 基于时间的数据流量筛选
-10. `throttle/debounce/audit` 基于数据内容的数据流量筛选
-11. `sample/sampleTime` 基于采样方式的数据流量筛选
-12. `distinct` 删除重复的数据
-13. `distinctUntilChanged/distinctUntilKeyChanged` 删除重复的连续数据
-14. `ignoreElements` 忽略数据流中的所有数据
-15. `elementAt` 只选取指定出现位置的数据
-16. `single` 判断是否只有一个数据满足判定条件
+
+### future
+
+1. `throttleTime/debounceTime/auditTime` 基于时间的数据流量筛选
+2. `throttle/debounce/audit` 基于数据内容的数据流量筛选
+3. `sample/sampleTime` 基于采样方式的数据流量筛选
+4. `distinct` 删除重复的数据
+5. `distinctUntilChanged/distinctUntilKeyChanged` 删除重复的连续数据
+6. `ignoreElements` 忽略数据流中的所有数据
+7. `elementAt` 只选取指定出现位置的数据
+8. `single` 判断是否只有一个数据满足判定条件
