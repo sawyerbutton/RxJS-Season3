@@ -6,7 +6,8 @@ RxJS presentation Season 3
 1. 高阶操作符
 2. 辅助类操作符
 3. 过滤操作符
-4. [代码地址](https://stackblitz.com/edit/rxjs-season3?file=package.json)
+4. [代码地址](https://stackblitz.com/edit/rxjs-season3?file=index.ts)
+5. [玩具地址1](https://stackblitz.com/edit/rxjs-reactive-scroll?file=index.ts)
 
 ### 高阶操作符
 
